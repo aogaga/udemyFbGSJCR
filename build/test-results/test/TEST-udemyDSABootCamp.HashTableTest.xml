@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="udemyDSABootCamp.HashTableTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-26T02:26:24" hostname="OgheneoagasiMac.attlocal.net" time="0.009">
+  <properties/>
+  <testcase name="putAndGet" classname="udemyDSABootCamp.HashTableTest" time="0.009"/>
+  <system-out><![CDATA[hashcode = 279862446
+index = 14
+hashcode = 1185058862
+index = 14
+hashcode = -767892167
+index = 9
+hashcode = 1985814551
+index = 7
+hashcode = -2035998932
+index = 12
+hashcode = 279862446
+index = 14
+hashcode = 1185058862
+index = 14
+hashcode = -767892167
+index = 9
+hashcode = 1985814551
+index = 7
+hashcode = -2035998932
+index = 12
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
